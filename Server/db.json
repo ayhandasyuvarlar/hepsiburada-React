@@ -1,0 +1,28 @@
+{
+    "UserContact":[
+        {
+            "text":"Siparişlerim",
+            "id":1
+        },
+        {
+            "text":"Süper Fiyat , Süper Teklif",
+            "id":2
+        },
+        {
+            "text":"Yurt Dışından",
+            "id":3
+        },
+        {
+            "text":"Girişimci Kadınlar",
+            "id":4
+        },
+        {
+            "text":"Çözüm Merkezi",
+            "id":5
+        },
+        {
+            "text":"Hepsiburada'da Satıcı Ol",
+            "id":6
+        }
+    ]
+}

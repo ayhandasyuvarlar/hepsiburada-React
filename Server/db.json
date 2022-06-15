@@ -24,5 +24,43 @@
             "text":"Hepsiburada'da Satıcı Ol",
             "id":6
         }
+    ],
+    "Category":[
+        {
+            "id":1,
+             "categoryName":"Elektronik"
+        },
+        {
+            "id":2,
+            "categoryName":"Moda"
+        },
+        {
+            "id":3,
+            "categoryName":"Ev,Yaşam Kırtasiye,Ofis"
+        },
+        {
+            "id":4,
+            "categoryName":"Oto,Bahçe,Yapı Market"
+        },
+        {
+            "id":5,
+            "categoryName":"Anne, Bebek, Oyuncak"
+        },
+        {
+            "id":6,
+            "categoryName":"Spor,Outdoor"
+        },
+        {
+            "id":7,
+            "categoryName":"Kozmetik ,Kişisel Bakım"
+        },
+        {
+            "id":8,
+            "categoryName":"Süpermarket,Pet Shop"
+        },
+        {
+            "id":9,
+            "categoryName":"Kitap,Müzik,Film,Hobi"
+        }
     ]
 }
